@@ -1,4 +1,5 @@
 # Authentication-Management-System
-Programming language : C++ 
-Tools and Conept : Object Oriented Programming 
 
+A authentication management system which allows access only when right password will be provided.
+
+Technology Used : C++  & OOPS concepts
